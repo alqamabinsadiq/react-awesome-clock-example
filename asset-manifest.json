@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.6c226ec9.chunk.css",
-  "main.js": "/static/js/main.0445beb9.chunk.js",
-  "main.js.map": "/static/js/main.0445beb9.chunk.js.map",
-  "static/js/1.e34b4255.chunk.js": "/static/js/1.e34b4255.chunk.js",
-  "static/js/1.e34b4255.chunk.js.map": "/static/js/1.e34b4255.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-  "static/css/main.6c226ec9.chunk.css.map": "/static/css/main.6c226ec9.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.54f72affd6c197cb39ad3b31b8fc7fa8.js": "/precache-manifest.54f72affd6c197cb39ad3b31b8fc7fa8.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/react-awesome-clock/static/css/main.4f28a7b8.chunk.css",
+  "main.js": "/react-awesome-clock/static/js/main.0531d585.chunk.js",
+  "main.js.map": "/react-awesome-clock/static/js/main.0531d585.chunk.js.map",
+  "static/js/1.e34b4255.chunk.js": "/react-awesome-clock/static/js/1.e34b4255.chunk.js",
+  "static/js/1.e34b4255.chunk.js.map": "/react-awesome-clock/static/js/1.e34b4255.chunk.js.map",
+  "runtime~main.js": "/react-awesome-clock/static/js/runtime~main.9d8b27b3.js",
+  "runtime~main.js.map": "/react-awesome-clock/static/js/runtime~main.9d8b27b3.js.map",
+  "static/media/logo.svg": "/react-awesome-clock/static/media/logo.5d5d9eef.svg",
+  "static/css/main.4f28a7b8.chunk.css.map": "/react-awesome-clock/static/css/main.4f28a7b8.chunk.css.map",
+  "index.html": "/react-awesome-clock/index.html",
+  "precache-manifest.c933d706323dee1815328153ef9d07e5.js": "/react-awesome-clock/precache-manifest.c933d706323dee1815328153ef9d07e5.js",
+  "service-worker.js": "/react-awesome-clock/service-worker.js"
 }
